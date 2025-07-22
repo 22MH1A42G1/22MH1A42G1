@@ -1,19 +1,18 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Hi%20I'm%20Indana%20Aditya👋&fontSize=45&fontColor=ffffff)
 
-<h2 align="center">🚀 Aspiring AI/ML Engineer | AWS Certified | GATE DA 2025 Aspirant</h2>
+<h2 align="center">🚀 Aspiring AI/ML Engineer | AWS DEVELOPER ASSOCIATE Certified | GATE DA 2025 Aspirant</h2>
 
 ---
 
 ## 🧑‍💻 About Me
 
-```yaml
-Name: Indana Aditya
-Education: B.Tech - Aditya Engineering College, Surampalem
-Branch: Computer Science and Engineering (CSE)
-Current Year: 4th Year, 1st Semester
-GATE Aspirant: Yes (DA - Data Science & Artificial Intelligence)
-Portfolio: https://adityaindana.tech
-Email: adityaindana@gmail.com
+
+>> Name: Indana Aditya
+>> Education: B.Tech - Aditya Engineering College, Surampalem
+>> Branch: (CSE-AIML)
+>> Current Year: 4th Year, 1st Semester
+>> Portfolio: https://adityaindana.tech
+>> Email: adityaindana@gmail.com
 ---
 
 ## 📬 Contact Me
@@ -39,12 +38,26 @@ Email: adityaindana@gmail.com
   </a>
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/Adityaaaaaaaaaaaaa/">
-    <img src="https://img.shields.io/badge/LeetCode-Solved Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<h3 align="left">🌐 Coding Profiles</h3>
+
+<p align="left">
+  <a href="https://leetcode.com/u/Adityaaaaaaaaaaaaa/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
   </a>
-  <a href="https://codeforces.com/profile/Indana.Aditya">
-    <img src="https://img.shields.io/badge/Codeforces-Competitive-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <a href="https://www.codechef.com/users/a9127416" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/codechef-3521354-2944792.png" alt="CodeChef" width="40" height="40"/>
+  </a>
+  <a href="https://codeforces.com/profile/Indana.Aditya" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/codeforces-3521355-2944793.png" alt="Codeforces" width="40" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/22MH1A42G1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/a9127e1at/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/22MH1A42G1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
