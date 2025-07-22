@@ -123,12 +123,9 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/>
 </a>
-
-
 <a href="https://www.eclipse.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse_Logo.svg" alt="Eclipse IDE" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="Eclipse" width="40"/>](https://www.eclipse.org/)
 </a>
-
 <a href="https://www.spyder-ide.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" alt="Spyder IDE" width="40" height="40"/>
 </a>
