@@ -1,3 +1,19 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Hi%20I'm%20Indana%20Aditya👋&fontSize=45&fontColor=ffffff)
+
+<h2 align="center">🚀 Aspiring AI/ML Engineer | AWS Certified | GATE DA 2025 Aspirant</h2>
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+Name: Indana Aditya
+Education: B.Tech - Aditya Engineering College, Surampalem
+Branch: Computer Science and Engineering (CSE)
+Current Year: 4th Year, 1st Semester
+GATE Aspirant: Yes (DA - Data Science & Artificial Intelligence)
+Portfolio: https://adityaindana.tech
+Email: adityaindana@gmail.com
 ---
 
 ## 📬 Contact Me
