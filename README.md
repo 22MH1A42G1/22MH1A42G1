@@ -120,6 +120,25 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/></a>
 </p>
+<!-- PyCharm -->
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/>
+</a>
+
+<!-- Anaconda -->
+<a href="https://www.anaconda.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Anaconda_Logo.png" alt="Anaconda" width="40" height="40"/>
+</a>
+
+<!-- Eclipse -->
+<a href="https://www.eclipse.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse_Logo.svg" alt="Eclipse IDE" width="40" height="40"/>
+</a>
+
+<!-- Spyder -->
+<a href="https://www.spyder-ide.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" alt="Spyder IDE" width="40" height="40"/>
+</a>
 
 ---
 
