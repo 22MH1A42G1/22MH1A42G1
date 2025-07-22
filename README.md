@@ -55,9 +55,7 @@
   <a href="https://codeforces.com/profile/Indana.Aditya" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/codeforces-3521355-2944793.png" alt="Codeforces" width="40" height="40"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/22MH1A42G1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40"/>
-  </a>
+  
   <a href="https://www.geeksforgeeks.org/user/a9127e1at/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
   </a>
