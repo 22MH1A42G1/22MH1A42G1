@@ -82,7 +82,7 @@
 ## 🔧 Tech I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,python,docker,boto3,linux,vscode,git,github,mysql,sqlite,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,python,java,tensorflow,pandas,Ansible,terraform,Kubernetes,Jenkins,DevOps,docker,boto3,Streamlit,linux,vscode,git,github,mysql,sqlite,html,css,js" />
 </p>
 
 ---
