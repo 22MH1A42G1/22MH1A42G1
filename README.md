@@ -8,10 +8,15 @@
 
 
 > Name: Indana Aditya
+
 > Education: B.Tech - Aditya Engineering College, Surampalem
+
 > Branch: (CSE-AIML)
+
 > Current Year: 4th Year, 1st Semester
+
 > Portfolio: https://adityaindana.tech
+
 > Email: adityaindana@gmail.com
 ---
 
