@@ -6,28 +6,14 @@
 
 ## 🧑‍💻 About Me
 
-
 > Name: Indana Aditya
 
-> Education: B.Tech - Aditya Engineering College, Surampalem
+> Education: B.Tech - Aditya College of Engineering and Technology, Surampalem
 
 > Branch: (CSE-AIML)
 
 > Current Year: 4th Year
 
-> Portfolio: https://adityaindana.tech
-
-> Email: adityaindana@gmail.com
----
-<h2 align="center"> My Contributions</h2>
-
-<HR>
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=22MH1A42G1&theme=darkhub" alt="22MH1A42G1" />
-  </a> 
-</p>
-</HR>
 ---
 
 ## 📬 Contact Me
@@ -44,31 +30,38 @@
 <p align="center">
   <a href="mailto:adityaindana@gmail.com">
     <img src="https://img.shields.io/badge/Email-adityaindana@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aditya-indana-899734216" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/22MH1A42G1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://adityaindana.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-WEBSITE-03b1fc?style=for-the-badge&logo=profile&logoColor=white"/>
   </a>
 </p>
+
+---
 
 <h3 align="left">🌐 Coding Profiles</h3>
 
 <p align="left">
   <a href="https://leetcode.com/u/Adityaaaaaaaaaaaaa/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
-  </a>
+  </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/a9127416" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/codechef-3521354-2944792.png" alt="CodeChef" width="40" height="40"/>
-  </a>
+  </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/Indana.Aditya" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/codeforces-3521355-2944793.png" alt="Codeforces" width="40" height="40"/>
-  </a>
-  
+  </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/22MH1A42G1" target="_blank" >
+    <img src="https://img.favpng.com/25/19/5/hackerrank-computer-programming-programmer-logo-interview-png-favpng-cCaqcTRb3LNhxuM4FP2L34K7w_t.jpg" width="40" alt="HackerRank"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/a9127e1at/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
-  </a>
+  </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/22MH1A42G1" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
@@ -76,16 +69,31 @@
 
 ---
 
-## 📈 GitHub Stats
+# GitHub 
 
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=22MH1A42G1&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
+</p>
+
+## 📅 GitHub Streak
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=22MH1A42G1&theme=tokyonight" width="49%" />
 </p>
 
-<p align="center">
+## 🖋️ GitHub Language
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22MH1A42G1&layout=compact&theme=tokyonight" width="40%"/>
 </p>
+
+## 🏆 GitHub Trophies
+<HR>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=22MH1A42G1&theme=darkhub" alt="22MH1A42G1" />
+  </a> 
+</p>
+</HR>
 
 ---
 
