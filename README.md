@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkotha&label=Profile%20views&color=0e75b6&style=flat" alt="22MH1A42G1" /> </p>
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Hi%20I'm%20Indana%20Aditya👋&fontSize=45&fontColor=ffffff)
 
 <h2 align="center">🚀 Aspiring AI/ML Engineer | AWS DEVELOPER ASSOCIATE Certified | GATE DA 2025 Aspirant</h2>
