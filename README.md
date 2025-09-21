@@ -21,17 +21,13 @@
 ---
 <h2 align="center"> My Contributions</h2>
 
- 
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/22MH1A42G1/22MH1A42G1/output/github-contribution-grid-snake-dark.svg" />
-</div>
-<hr>
+<HR>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=22MH1A42G1&theme=darkhub" alt="22MH1A42G1" />
   </a> 
 </p>
-
+</HR>
 ---
 
 ## 📬 Contact Me
