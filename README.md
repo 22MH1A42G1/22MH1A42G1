@@ -13,7 +13,7 @@
 
 > Branch: (CSE-AIML)
 
-> Current Year: 4th Year, 1st Semester
+> Current Year: 4th Year
 
 > Portfolio: https://adityaindana.tech
 
