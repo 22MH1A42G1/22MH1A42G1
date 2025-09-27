@@ -88,6 +88,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22MH1A42G1&layout=compact&theme=tokyonight" width="40%"/>
 </p>
 
+## 📈 Github Profile Summary Cards
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=22MH1A42G1&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="3D contribution graph animation" />
+</p>
+
+
 ## 🏆 GitHub Trophies
 <HR>
 <p align="center"> 
