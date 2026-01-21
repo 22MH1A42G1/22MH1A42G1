@@ -39,7 +39,7 @@
   <a href="https://github.com/22MH1A42G1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://adityaindana.tech/" target="_blank">
+  <a href="https://22mh1a42g1.github.io/MyPortfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-WEBSITE-03b1fc?style=for-the-badge&logo=profile&logoColor=white"/>
   </a>
 </p>
