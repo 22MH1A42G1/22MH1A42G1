@@ -49,23 +49,21 @@
 <h3 align="left">🌐 Coding Profiles</h3>
 
 <p align="left">
-  <a href="https://leetcode.com/u/Adityaaaaaaaaaaaaa/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
-  </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/a9127416" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/codechef-3521354-2944792.png" alt="CodeChef" width="40" height="40"/>
-  </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/Indana.Aditya" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/codeforces-3521355-2944793.png" alt="Codeforces" width="40" height="40"/>
-  </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/22MH1A42G1" target="_blank" >
-    <img src="https://img.favpng.com/25/19/5/hackerrank-computer-programming-programmer-logo-interview-png-favpng-cCaqcTRb3LNhxuM4FP2L34K7w_t.jpg" width="40" alt="HackerRank"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/a9127e1at/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
-  </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/22MH1A42G1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  
+  <a href="https://leetcode.com/u/Adityaaaaaaaaaaaaa/" target="_blank" title="LeetCode">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="100" alt="LeetCode"/> 
+  </a>
+    <a href="https://www.codechef.com/users/a9127416/" target="_blank" title="CodeChef">
+    <img src="https://aaruush22-bucket.s3.ap-south-1.amazonaws.com/sponsors/codechef-0074fa6e.webp" width="100" alt="CodeChef"/>
+  </a> 
+  <a href="https://codeforces.com/profile/Indana.Aditya" target="_blank" title="CodeForces>
+    <img src="https://i-blog.csdnimg.cn/direct/c93aa961d6464bd48bfbdc0fa17918c5.png?x-oss-process=image/resize,m_fixed,h_224,w_224" alt="Codeforces" width="100" />
+  </a>  
+  <a href="https://www.hackerrank.com/profile/22MH1A42G1" target="_blank" title="Hackerrank">
+    <img src="https://img.favpng.com/25/19/5/hackerrank-computer-programming-programmer-logo-interview-png-favpng-cCaqcTRb3LNhxuM4FP2L34K7w_t.jpg" width="100" alt="HackerRank"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/a9127e1at/" target="_blank" title="GeeksforGeeks">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="100" alt="GeeksforGeeks"/>
   </a>
 </p>
 
