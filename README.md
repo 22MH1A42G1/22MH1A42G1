@@ -7,14 +7,7 @@
 ---
 
 ## 🧑‍💻 About Me
-
-> Name: Indana Aditya
-
-> Education: B.Tech - Aditya College of Engineering and Technology, Surampalem
-
-> Branch: (CSE-AIML)
-
-> Current Year: 4th Year
+  I am Aditya Indana, a Computer Science student specializing in AI & ML, with hands-on experience in cloud platforms, DevOps workflows, and production-oriented web development.
 
 ---
 
