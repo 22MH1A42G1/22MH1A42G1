@@ -71,7 +71,7 @@
 
 ## 📅 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=22MH1A42G1&theme=tokyonight" width="49%" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=22MH1A42G1&theme=tokyonight" width="49%" alt="GitHub contribution streak" />
 </p>
 
 ## 🖋️ GitHub Language
