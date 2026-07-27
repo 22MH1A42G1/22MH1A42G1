@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=22MH1A42G1&label=Profile%20views&color=0e75b6&style=flat" alt="22MH1A42G1" /> </p>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Hi%20I'm%20Indana%20Aditya👋&fontSize=45&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Hi%20I'm%20Indana%20Aditya%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff)
 
-<h2 align="center">🚀 Aspiring AI/ML Engineer | AWS DEVELOPER ASSOCIATE Certified | GATE DA 2025 Aspirant</h2>
+<h2 align="center">🚀 Aspiring AI/ML Engineer | AWS DEVELOPER ASSOCIATE Certified</h2>
 
 ---
 
@@ -49,7 +49,7 @@
     <a href="https://www.codechef.com/users/a9127416/" target="_blank" title="CodeChef">
     <img src="https://aaruush22-bucket.s3.ap-south-1.amazonaws.com/sponsors/codechef-0074fa6e.webp" width="100" alt="CodeChef"/>
   </a> 
-  <a href="https://codeforces.com/profile/Indana.Aditya" target="_blank" title="CodeForces>
+  <a href="https://codeforces.com/profile/Indana.Aditya" target="_blank" title="Codeforces">
     <img src="https://i-blog.csdnimg.cn/direct/c93aa961d6464bd48bfbdc0fa17918c5.png?x-oss-process=image/resize,m_fixed,h_224,w_224" alt="Codeforces" width="100" />
   </a>  
   <a href="https://www.hackerrank.com/profile/22MH1A42G1" target="_blank" title="Hackerrank">
@@ -66,22 +66,22 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=22MH1A42G1&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=22MH1A42G1&theme=tokyonight" width="49%" alt="GitHub statistics" />
 </p>
 
 ## 📅 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=22MH1A42G1&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=22MH1A42G1&theme=tokyonight" width="49%" alt="GitHub contribution streak" />
 </p>
 
 ## 🖋️ GitHub Language
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22MH1A42G1&layout=compact&theme=tokyonight" width="40%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=22MH1A42G1&theme=tokyonight" width="40%" alt="Most used languages" />
 </p>
 
 ## 📈 Github Profile Summary Cards
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=22MH1A42G1&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=22MH1A42G1&theme=radical" alt="GitHub profile summary" />
 </p>
 
 ---
@@ -91,19 +91,13 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/22MH1A42G1/22MH1A42G1/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-## 🏆 GitHub Trophies
-<HR>
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=22MH1A42G1&theme=darkhub" alt="22MH1A42G1" />
-  </a> 
-</p>
-</HR>
+
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=22MH1A42G1&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=22MH1A42G1&theme=tokyo-night&hide_border=true" alt="Activity graph" />
 </div>
+
 ---
 
 <h3 align="left">🚀 Tech Stack I've Worked With</h3>
