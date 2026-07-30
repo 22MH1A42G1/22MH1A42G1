@@ -69,10 +69,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=22MH1A42G1&theme=tokyonight" width="49%" alt="GitHub statistics" />
 </p>
 
-## 📅 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=22MH1A42G1&theme=tokyonight" width="49%" alt="GitHub contribution streak" />
-</p>
 
 ## 🖋️ GitHub Language
 <p align="left">
