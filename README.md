@@ -89,11 +89,6 @@
 
 
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=22MH1A42G1&theme=tokyo-night&hide_border=true" alt="Activity graph" />
-</div>
-
 ---
 
 <h3 align="left">🚀 Tech Stack I've Worked With</h3>
